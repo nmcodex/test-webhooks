@@ -1,2 +1,2 @@
-print('hello'
-exit())
+print('hello')
+exit()
